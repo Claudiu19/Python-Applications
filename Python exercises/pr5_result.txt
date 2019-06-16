@@ -1,0 +1,15 @@
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\steam_api.dll|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\steam_api64.dll|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\steam_api64.ini|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\steam_appid.txt|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\unins000.dat|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\unins000.exe|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\YGO_DATA.dat|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\YGO_DATA.toc|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\YuGiOh.exe|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\_CommonRedist|FOLDER
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\_CommonRedist\vcredist|FOLDER
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\_CommonRedist\vcredist\2015|FOLDER
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\_CommonRedist\vcredist\2015\installscript.vdf|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\_CommonRedist\vcredist\2015\vc_redist.x64.exe|FILE
+E:\Facultate\Engleza\Games\Yu-Gi-Oh! Legacy of the Duelist\_CommonRedist\vcredist\2015\vc_redist.x86.exe|FILE

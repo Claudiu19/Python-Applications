@@ -1,0 +1,54 @@
+Thu Nov 29 11:09:31 2018
+
+backtrack
+Success rate: 12/25
+Average steps: 1393.8333333333333
+Average time: 0.14716662963231406
+Total time: 1.7659995555877686
+
+hillclimb
+Success rate: 18/25
+Average steps: 1591.2222222222222
+Average time: 0.3335016965866089
+Total time: 6.00303053855896
+
+astar
+Success rate: 25/25
+Average steps: 6.84
+Average time: 0.07568231582641602
+Total time: 1.8920578956604004
+
+optrand
+Success rate: 24/25
+Average steps: 1968.3333333333333
+Average time: 0.18173191944758096
+Total time: 4.361566066741943
+
+Thu Nov 29 11:35:28 2018
+
+backtrack
+Success rate: 14/25
+Average steps: 1338.9285714285713
+Average time: 0.1774383783340454
+Total time: 2.4841372966766357
+
+hillclimb
+Success rate: 19/25
+Average steps: 6094.263157894737
+Average time: 0.7427393637205425
+Total time: 14.112047910690308
+
+astar
+Success rate: 25/25
+Average steps: 6.88
+Average time: 0.07552033424377441
+Total time: 1.8880083560943604
+
+optrand
+Success rate: 23/25
+Average steps: 1375.0
+Average time: 0.12052306921585747
+Total time: 2.7720305919647217
+
+Fri Dec  7 10:53:54 2018
+
